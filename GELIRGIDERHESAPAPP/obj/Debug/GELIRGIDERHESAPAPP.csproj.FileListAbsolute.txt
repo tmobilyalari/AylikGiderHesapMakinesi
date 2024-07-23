@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\GELIRGIDERHESAPAPP\bin\Debug\GELIRGIDERHESAPAPP.exe.config
+C:\Users\USER\source\repos\GELIRGIDERHESAPAPP\bin\Debug\GELIRGIDERHESAPAPP.exe
+C:\Users\USER\source\repos\GELIRGIDERHESAPAPP\bin\Debug\GELIRGIDERHESAPAPP.pdb
+C:\Users\USER\source\repos\GELIRGIDERHESAPAPP\obj\Debug\GELIRGIDERHESAPAPP.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\GELIRGIDERHESAPAPP\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\GELIRGIDERHESAPAPP\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\GELIRGIDERHESAPAPP\obj\Debug\GELIRGIDERHESAPAPP_MarkupCompile.cache
+C:\Users\USER\source\repos\GELIRGIDERHESAPAPP\obj\Debug\GELIRGIDERHESAPAPP_MarkupCompile.lref
+C:\Users\USER\source\repos\GELIRGIDERHESAPAPP\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\GELIRGIDERHESAPAPP\obj\Debug\GELIRGIDERHESAPAPP.g.resources
+C:\Users\USER\source\repos\GELIRGIDERHESAPAPP\obj\Debug\GELIRGIDERHESAPAPP.Properties.Resources.resources
+C:\Users\USER\source\repos\GELIRGIDERHESAPAPP\obj\Debug\GELIRGIDERHESAPAPP.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\GELIRGIDERHESAPAPP\obj\Debug\GELIRGIDERHESAPAPP.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GELIRGIDERHESAPAPP\obj\Debug\GELIRGIDERHESAPAPP.exe
+C:\Users\USER\source\repos\GELIRGIDERHESAPAPP\obj\Debug\GELIRGIDERHESAPAPP.pdb

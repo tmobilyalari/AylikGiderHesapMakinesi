@@ -1,0 +1,32 @@
+﻿<Window x:Class="GELIRGIDERHESAPAPP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GELIRGIDERHESAPAPP"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1280">
+    <Window.Resources>
+        <AlternationConverter x:Key="AlternationConverter"/>
+    </Window.Resources>
+    <Grid>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+            <StackPanel Margin="10">
+                <TextBlock Text="Aylık Değerlerinizi Girin :" FontWeight="Bold" Margin="0,0,0,10"/>
+                <ItemsControl x:Name="TextBlockContainer"></ItemsControl>
+                <ItemsControl x:Name="TextBoxContainer">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <StackPanel Orientation="Vertical"/>
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                </ItemsControl>
+                <Button Content="Aylık Toplam" HorizontalAlignment="Center" Margin="0,10,0,0" Click="CalculateSum_Click"/>
+                <Button Content="Aylık Fark" HorizontalAlignment="Center" Margin="0,10,0,0" Click="CalculateDifference_Click"/>
+                <TextBlock Text="Sonuç:" FontWeight="Bold" Margin="0,10,0,0"/>
+                <TextBox x:Name="ResultTextBox" IsReadOnly="True" Margin="0,0,0,10" Background="LightGray"/>
+                <Button Content="Sonucu Kopyala" HorizontalAlignment="Center" Click="CopyResult_Click"/>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>
